@@ -7,3 +7,4 @@ The project aim was to develop a proof-of-concept VR application to aid in promo
 
 The application was developed in Unity using the OpenXR plugin to enable a wide variety of devices to be targeted. This was deployed and tested on the Meta Quest 2 headset. 
 
+A recording of the simulation can be found in the repository ‘Simulation_Recording.mp4’, this demonstrates the main interactions of the simulation (main menu and tutorial details are not included in this demonstration).
